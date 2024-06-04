@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(245, 231, 214);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+h2{
+    text-transform: uppercase;
+}
+
+header{
+    color: rgb(2, 2, 133)
+
+}
+
+#acerca_de_mi{
+    background-color: rgb(255, 0, 174);
+    width: 33.3%;
+}
+
+#experiencia{
+    background-color: greenyellow;
+    width: 33.3%;
+}
+
+#referencias{
+    background-color: orange;
+    width: 33.3%;
+}
+
+.estilo-seccion{
+    border: 2px  solid;
+    color: rgb(26, 52, 167);
+}
+
+td{
+    border: 2px solid;
+}
